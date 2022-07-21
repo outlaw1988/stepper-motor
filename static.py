@@ -1,0 +1,10 @@
+class Static:
+
+    GPIO_PINS = (14, 15)
+    DIRECTION = 12
+    STEP = 21
+
+    ROTATION_LEFT_PIN = 17
+    ROTATION_RIGHT_PIN = 27
+    ROTATION_STOP_PIN = 28
+    OUTPUT_PIN = 4
